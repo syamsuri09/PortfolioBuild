@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ef6ed88.css",
+    "main.js": "/static/js/main.60406ad0.js",
+    "static/media/SyamSuri_Resume.pdf": "/static/media/SyamSuri_Resume.9061bb2211af83f1e7c8.pdf",
+    "index.html": "/index.html",
+    "main.6ef6ed88.css.map": "/static/css/main.6ef6ed88.css.map",
+    "main.60406ad0.js.map": "/static/js/main.60406ad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef6ed88.css",
+    "static/js/main.60406ad0.js"
+  ]
+}
